@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MiniLoanApplication.Models;
 using MiniLoanApplication.Service;
-
+// my loan controller
 namespace MiniLoanApplication.Controllers
 {
     [Route("api/[controller]")]
